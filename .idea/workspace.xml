@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee1038c2-d35f-4c91-b19e-f2d75a0989e8" name="Changes" comment="task 10 gönderme">
-      <change afterPath="$PROJECT_DIR$/src/meryem/task0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ee1038c2-d35f-4c91-b19e-f2d75a0989e8" name="Changes" comment="task 12 tamamlandı" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,15 +40,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/akara/IdeaProjects/Task/src/task10&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/akara/IdeaProjects/Task/src/meryem"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\akara\IdeaProjects\Task\src\meryem" />
       <recent name="C:\Users\akara\IdeaProjects\Task\src\task10" />
       <recent name="C:\Users\akara\IdeaProjects\Task\src\ch10_MethodCreation" />
     </key>
@@ -72,11 +70,19 @@
       <option name="project" value="LOCAL" />
       <updated>1687207038048</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="task 12 tamamlandı">
+      <created>1687908554772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687908554772</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task 10 gönderme" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 10 gönderme" />
+    <MESSAGE value="task 12 tamamlandı" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 12 tamamlandı" />
   </component>
 </project>
