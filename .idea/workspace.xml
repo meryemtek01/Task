@@ -1,39 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee1038c2-d35f-4c91-b19e-f2d75a0989e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/C01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/C09_UcusCalısma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev01Medium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev06Easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task15_UcusProject02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task15_UcusProject03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task16_KelimeOyunu01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task16_KelimeOyunu02.java" afterDir="false" />
-    </list>
+    <list default="true" id="ee1038c2-d35f-4c91-b19e-f2d75a0989e8" name="Changes" comment="task 12 tamamlandı" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +21,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -65,9 +44,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/akara/IdeaProjects/Task/src/task10"
+    "last_opened_file_path": "C:/Users/akara/IdeaProjects/Task/src/meryem"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\akara\IdeaProjects\Task\src\meryem" />
+      <recent name="C:\Users\akara\IdeaProjects\Task\src\task10" />
+      <recent name="C:\Users\akara\IdeaProjects\Task\src\ch10_MethodCreation" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,6 +63,26 @@
       <option name="presentableId" value="Default" />
       <updated>1687206415498</updated>
     </task>
+    <task id="LOCAL-00001" summary="task 10 gönderme">
+      <created>1687207038048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687207038048</updated>
+    </task>
+    <task id="LOCAL-00002" summary="task 12 tamamlandı">
+      <created>1687908554772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687908554772</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task 10 gönderme" />
+    <MESSAGE value="task 12 tamamlandı" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 12 tamamlandı" />
   </component>
 </project>
