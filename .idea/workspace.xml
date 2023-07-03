@@ -1,38 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee1038c2-d35f-4c91-b19e-f2d75a0989e8" name="Changes" comment="">
+    <list default="true" id="ee1038c2-d35f-4c91-b19e-f2d75a0989e8" name="Changes" comment="task 12 tamamlandı">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Task.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/C01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/C09_UcusCalısma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev01Medium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Odev06Easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task15_UcusProject02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task15_UcusProject03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task16_KelimeOyunu01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_MethodCreation/tasks10/Task16_KelimeOyunu02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +29,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b901c122-dd8b-48c4-9b15-ceea0a2e7e75" />
+        <option name="url" value="https://github.com/meryemtek01/Task.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -61,13 +51,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/akara/IdeaProjects/Task/src/task10"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/akara/IdeaProjects/Task/src/task10&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
